@@ -19,5 +19,5 @@ public record DatosRegistroTopico(
         String fecha,
 
         @NotNull
-        Curso curso) {
+        String curso) {
 }
